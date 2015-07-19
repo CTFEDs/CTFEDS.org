@@ -51,7 +51,7 @@ With these principles in mind, here's a checklist of things for you to apply to 
 * Provide fallbacks for CSS features: `px` for `rem` units; `rgb` for `rgba`, suitable `background-color` for `background` images, `png` for `svg` images.
 * Look at refactoring your CSS. If you have long selectors, use IDs, or over-qualify them, try refactoring using a style guide like [SMACSS](https://smacss.com/).
 * Validate your CSS.
-* Lint your CSS.
+* Lint your CSS (check for errors and style).
 
 ### Responsive Web Design
 
@@ -72,6 +72,7 @@ With these principles in mind, here's a checklist of things for you to apply to 
 * Use feature detection (possible using a library like [Modernizr](http://modernizr.com/)) rather than device detection.
 * Consider carefully if a feature is worth polyfilling. Would it be better to apply a technique like [cutting the mustard](http://responsivenews.co.uk/post/18948466399/cutting-the-mustard), and serve a simpler, faster, experience instead?
 * Consider carefully if it's worth adding a jQuery plugin for a feature, rather than writing a smaller amount of code yourself.
+* Hint your JS (check for errors and style).
 
 ### Performance
 
@@ -79,3 +80,4 @@ With these principles in mind, here's a checklist of things for you to apply to 
 * Reduce sizes of JS files by minifying them
 * Minimise the number of HTTP requests by combining CSS files
 * Minimise the number of HTTP requests by combining JS files
+* Test across various network speeds, especially slow ones.
