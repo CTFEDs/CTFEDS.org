@@ -25,7 +25,7 @@
 * Provide fallbacks for CSS features: `px` for `rem` units; `rgb` for `rgba`, suitable `background-color` for `background` images, `png` for `svg` images.
 * Keep selectors simple: just use element or shallow class selectors. Don't use IDs or over-qualify selectors. Try using a style guide like [SMACSS](https://smacss.com/).
 * Serve a base stylesheet to all browsers. Then use Media Queries to serve fancier browsers with fancier styles.
-* Be careful about your web font usage. Don't use too many, and make sure you supply a suitable fallback.
+* Check your your web font usage: don't use too many, and make sure you supply a suitable fallback.
 
 ### Responsive Web Design
 
@@ -33,7 +33,7 @@
 * Make your images responsive, using `max-width: 100%; height: auto;`
 * Use Media Queries to adjust elements of your site over varying screens sizes.
 * Approach your site [Mobile First](http://www.lukew.com/resources/mobile_first.asp). Start with a small screen size and work your way up from there.
-* Use `min-width` rather than `max-width`, and use `em` for breakpoints rather than `px`.
+* Use `min-width` rather than `max-width` Media Queries, and use `em` for breakpoints rather than `px`.
 
 ### JavaScript
 
