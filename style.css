@@ -8,16 +8,23 @@
 
 body {
 	background-color: #61ba96;
-
 	font-family: "proxima-nova-alt-condensed", sans-serif ;
 	color: #fff;
 	font-size: 100%;
-	text-align:center;
 }
 
 .wrap {
 	max-width: 60em;
 	margin:80px auto;
+}
+
+.wrap-home {
+	text-align:center;
+}
+
+.wrap-home p {
+	text-transform: uppercase;
+	letter-spacing: 0.02em;
 }
 
 h1 {
@@ -37,7 +44,6 @@ h1:after {
 	font-size:1.4em;
 }
 
-p {
-	text-transform: uppercase;
-	letter-spacing: 0.02em;
+a {
+	color: #694973;
 }
