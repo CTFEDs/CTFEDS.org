@@ -34,15 +34,24 @@ With these principles in mind, here's a checklist of things for you to apply to 
 ### HTML
 
 * Use the `picture` element and `srcset` to provide the image most suitable for the user's device. You can use [Picturefill](http://scottjehl.github.io/picturefill/) to enable support for `picture` in browsers that don't support it yet.
-* Use HTML5 input types like `search`, `email`, and `date`.
-* Make sure your site is accessible. Use tools like [Tenon](http://tenon.io/) and [pa11y](http://pa11y.org/) to check.
+* Every image should have `alt` text.
+* Optimise your images.
 * Use SVGs instead of JPGs, PNGs, and GIFs where possible.
+* Use HTML5 input types like `search`, `email`, and `date`.
+* Use HTML5 elements like `section`, `article`, `header`, `footer`, and `nav`.
+* Use WAI-ARIA landmarks roles like `banner`, `contentinfo`, navigation, and `complementary`.
+* Make sure your site is accessible. Use tools like [Tenon](http://tenon.io/) and [pa11y](http://pa11y.org/) to check.
 * Be careful about your web font usage. Don't use too many, and make sure you supply a suitable fallback.
+* Validate your HTML.
 
 ### CSS
 
+* Don't use inline CSS.
+* Use CSS instead of images where possible.
 * Provide fallbacks for CSS features: `px` for `rem` units; `rgb` for `rgba`, suitable `background-color` for `background` images, `png` for `svg` images.
 * Look at refactoring your CSS. If you have long selectors, use IDs, or over-qualify them, try refactoring using a style guide like [SMACSS](https://smacss.com/).
+* Validate your CSS.
+* Lint your CSS.
 
 ### Responsive Web Design
 
@@ -58,6 +67,15 @@ With these principles in mind, here's a checklist of things for you to apply to 
 
 ### JavaScript
 
+* Don't use inline JS.
+* Place `script` elements at the bottom of the page, or load them asynchronously.
 * Use feature detection (possible using a library like [Modernizr](http://modernizr.com/)) rather than device detection.
 * Consider carefully if a feature is worth polyfilling. Would it be better to apply a technique like [cutting the mustard](http://responsivenews.co.uk/post/18948466399/cutting-the-mustard), and serve a simpler, faster, experience instead?
 * Consider carefully if it's worth adding a jQuery plugin for a feature, rather than writing a smaller amount of code yourself.
+
+### Performance
+
+* Reduce sizes of CSS files by minifying them
+* Reduce sizes of JS files by minifying them
+* Minimise the number of HTTP requests by combining CSS files
+* Minimise the number of HTTP requests by combining JS files
