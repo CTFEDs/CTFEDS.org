@@ -37,6 +37,7 @@ With these principles in mind, here's a checklist of things for you to apply to 
 * Every image should have `alt` text.
 * Optimise your images.
 * Use SVGs instead of JPGs, PNGs, and GIFs where possible.
+* Use as few images as you can: they use up the most data.
 * Use HTML5 input types like `search`, `email`, and `date`.
 * Use HTML5 elements like `section`, `article`, `header`, `footer`, and `nav`.
 * Use WAI-ARIA landmarks roles like `banner`, `contentinfo`, navigation, and `complementary`.
@@ -49,9 +50,11 @@ With these principles in mind, here's a checklist of things for you to apply to 
 * Don't use inline CSS.
 * Use CSS instead of images where possible.
 * Provide fallbacks for CSS features: `px` for `rem` units; `rgb` for `rgba`, suitable `background-color` for `background` images, `png` for `svg` images.
+* Keep selectors simple: just use element or class selectors (one level deep where possible). Don't use IDs or over-qualify selectors. Try using a style guide like SMACSS.
 * Look at refactoring your CSS. If you have long selectors, use IDs, or over-qualify them, try refactoring using a style guide like [SMACSS](https://smacss.com/).
 * Validate your CSS.
 * Lint your CSS (check for errors and style).
+* Serve a base.css to all browsers. Then use Media Queries to serve fancier browsers another stylesheet with fancier styles.
 
 ### Responsive Web Design
 
@@ -76,8 +79,12 @@ With these principles in mind, here's a checklist of things for you to apply to 
 
 ### Performance
 
-* Reduce sizes of CSS files by minifying them
-* Reduce sizes of JS files by minifying them
-* Minimise the number of HTTP requests by combining CSS files
-* Minimise the number of HTTP requests by combining JS files
+* Reduce sizes of CSS files by minifying them.
+* Reduce sizes of JS files by minifying them.
+* Minimise the number of HTTP requests by combining CSS files.
+* Minimise the number of HTTP requests by combining JS files.
+* Prefer serving fewer, larger, files to serving many, smaller, ones.
 * Test across various network speeds, especially slow ones.
+* Use WebPageTest to measure your site's performance.
+* Use PageSpeed to get some ideas for performance optimisation.
+* Load critical CSS in the head of your document, and load the rest asynchronously using JS (but provide a `noscript` fallback).
