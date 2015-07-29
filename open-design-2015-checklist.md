@@ -26,7 +26,7 @@
 * Keep selectors simple: just use element or shallow class selectors. Don't use IDs or over-qualify selectors. Try using a style guide like [SMACSS](https://smacss.com/).
 * Serve a base stylesheet to all browsers. Then use Media Queries to serve fancier browsers with fancier styles.
 * Check your your web font usage: don't use too many, and make sure you supply a suitable fallback.
-* Use tools: csslint, cssstats, stylestats
+* Use tools: [csslint](http://csslint.net/), [cssstats](http://cssstats.com/), [stylestats](http://www.stylestats.org/)
 
 ### Responsive Web Design
 
