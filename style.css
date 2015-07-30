@@ -411,7 +411,8 @@ body {
 .header-container {
 	background-color: white;
 	overflow: hidden;
-	box-shadow: 0 0 10px 0 rgba(0,0,0,.2)
+	box-shadow: 0 0 10px 0 rgba(0,0,0,.2);
+  padding: 0 20px;
 }
 
 header {
@@ -419,15 +420,12 @@ header {
 	margin: 0 auto;
 	padding: 20px 0;
 	overflow: hidden;
+  text-align: center;
 }
 
 .wrap {
 	max-width: 60em;
 	margin:80px auto;
-}
-
-.wrap-home {
-	/*text-align:center;*/
 }
 
 h1 {
@@ -437,10 +435,15 @@ h1 {
 }
 
 .logo-header {
-	float: left;
 	margin: 0;
   line-height: 1;
   text-transform: uppercase;
+}
+
+@media only screen and (min-width: 550px) {
+  .logo-header {
+    float: left;
+  }
 }
 
 .logo-link {
@@ -465,15 +468,22 @@ a:hover {
  color: #3ba57a;
 }
 
-.main-nav {
-	float: left;
-	margin-left: 50px;
+@media only screen and (min-width: 550px) {
+  .main-nav {
+    float: left;
+    margin-left: 50px;
+  }
 }
 
 .menu {
-	padding-left: 50px;
 	margin: 20px 0 0;
-  border-left: 1px solid #61ba96;
+}
+
+@media only screen and (min-width: 550px) {
+  .menu {
+    padding-left: 50px;
+    border-left: 1px solid #61ba96;
+  }
 }
 
 .menu li {
@@ -553,4 +563,13 @@ a:hover {
   background-color: white;
   padding: 0.313em 30px 30px;
   border-bottom: 0.625em solid #e66c57;
+}
+
+/*---Footer--*/
+
+footer {
+  background-color: white;
+  padding: 1em 2em;
+  max-width: 960px;
+  margin: 0 auto 30px;
 }
