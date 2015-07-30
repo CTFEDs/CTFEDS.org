@@ -411,21 +411,21 @@ body {
 .header-container {
 	background-color: white;
 	overflow: hidden;
-	box-shadow: 0 0 10px 0 rgba(0,0,0,.2);
-  padding: 0 20px;
+	box-shadow: 0 0 .8em 0 rgba(0,0,0,.2);
+  padding: 0 1.25em;
 }
 
 header {
 	max-width: 60em;
 	margin: 0 auto;
-	padding: 20px 0;
+	padding: 1.25em 0;
 	overflow: hidden;
   text-align: center;
 }
 
 .wrap {
 	max-width: 60em;
-	margin:80px auto;
+	margin: 5em auto;
 }
 
 h1 {
@@ -440,7 +440,7 @@ h1 {
   text-transform: uppercase;
 }
 
-@media only screen and (min-width: 550px) {
+@media only screen and (min-width: 34.375em) {
   .logo-header {
     float: left;
   }
@@ -468,32 +468,31 @@ a:hover {
  color: #3ba57a;
 }
 
-@media only screen and (min-width: 550px) {
+@media only screen and (min-width: 34.375em) {
   .main-nav {
     float: left;
-    margin-left: 50px;
+    margin-left: 3.125em;
   }
 }
 
 .menu {
-	margin: 20px 0 0;
+	margin: 1.25em 0 0;
 }
 
-@media only screen and (min-width: 550px) {
+@media only screen and (min-width: 34.375em) {
   .menu {
-    padding-left: 50px;
+    padding-left: 3.125em;
     border-left: 1px solid #61ba96;
   }
 }
 
 .menu li {
   display: inline-block;
-  margin-right: 40px;
+  margin-right: 2.5em;
 }
 
 .menu a {
-	font-size: 18px;
-	font-size: 1.125rem;
+	font-size: 1.125em;
 	text-decoration: none;
 	text-transform: uppercase;
 	color: #4c4c4c;
@@ -530,8 +529,8 @@ a:hover {
   vertical-align: middle;
   border-radius: 100%;
   background-color: #e66c57;
-  width: 65px;
-  height: 65px;
+  width: 2em;
+  height: 2em;
   background-size: 50%;
   background-repeat: no-repeat;
   background-position: center center;
