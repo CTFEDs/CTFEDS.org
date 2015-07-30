@@ -1,7 +1,7 @@
-<!-- ---
+---
 layout: default
 title: Checklist / CTFEDs event at Open Design Cape Town
---- -->
+---
 
 # CTFEDs event at Open Design Cape Town
 
