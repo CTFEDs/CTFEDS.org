@@ -1,3 +1,8 @@
+---
+layout: default
+title: Blurb
+---
+
 [Open Design Cape Town](http://opendesignct.com/) runs from 12 to 23 August 2015 at City Hall. This year, the theme is **Design is for Tomorrow**.
 
 We'll be running a CTFEDs event (instead of [our regular meetup](http://www.meetup.com/ctfeds/)) as part of the festival: a hands-on workshop for making your site even better. We'll also have two topic-related lightning talks.

@@ -1,7 +1,17 @@
 ---
 layout: home
-title: Principles / CTFEDs event at Open Design Cape Town
+title: CTFEDs - Cape Town front-end developers
 ---
 
-<h1><abbr title="Cape Town Front-end Developers">CTFEDs</abbr></h1>
-<p>Coming soon.</p>
+<article class="latest">
+    <h1 class="block-header latest-meetup">
+        <span class="block-header-icon date-icon"></span>
+        Next event
+     </h1>
+     {% capture event %}{% include event.md %}{% endcapture %}
+        {{ event | markdownify }}
+    <a href="" class="meetup-latest">RSVP</a>
+</article>
+
+
+
