@@ -13,9 +13,6 @@ navigation:
    url: /index.html
  - title: About
    url: /about/index.html
- - title: Get involved
-   url: /get-involved/index.html
-
 
 exclude: [
     'node_modules',
