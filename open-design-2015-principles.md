@@ -1,3 +1,8 @@
+<!-- ---
+layout: default
+title: Principles / CTFEDs event at Open Design Cape Town
+--- -->
+
 # CTFEDs event at Open Design Cape Town
 
 ## Principles
