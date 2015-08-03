@@ -67,4 +67,4 @@ title: Checklist / CTFEDs event at Open Design Cape Town
 * Get CSS stats and look for improvements: [cssstats](http://cssstats.com/) and [stylestats](http://www.stylestats.org/).
 * JS Hinting: [JSHint](http://jshint.com/)
 * JS Minification: [jscompress](http://jscompress.com/).
-* Linting, Hinting, and Minification are also possible using plugins for editors like [Sublime Text](http://www.sublimetext.com/), [Atom](https://atom.io/), and [CodeKit](https://incident57.com/codekit/), or by using a build tool like [Grunt](http://gruntjs.com/) or [Gulp](http://gulpjs.com/).
+* Linting, Hinting, and Minification are also possible using plugins for editors like [Sublime Text](http://www.sublimetext.com/), [Atom](https://atom.io/), [CodeKit](https://incident57.com/codekit/) and [Preprs](https://prepros.io/), or by using a build tool like [Grunt](http://gruntjs.com/) or [Gulp](http://gulpjs.com/).
