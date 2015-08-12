@@ -266,6 +266,10 @@ a:hover {
 
 /*---Pages---*/
 
+.post-title {
+  margin-top: 0;
+}
+
 .content {
   background-color: white;
   padding: 0.313em 30px 30px;
