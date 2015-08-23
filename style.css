@@ -215,6 +215,13 @@ a:hover {
     color: #61ba96;
 }
 
+hr {
+  border-top: solid 1px #61ba96;
+  border-right: none;
+  border-bottom: none;
+  border-left: none;
+}
+
 /* Home page stuff*/
 
 .latest {
@@ -262,6 +269,10 @@ a:hover {
 .meetup-latest:hover {
   background-color: #3ba57a;
   color: white;
+}
+
+.meetup-speaker {
+
 }
 
 /*---Pages---*/
