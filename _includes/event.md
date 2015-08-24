@@ -1,8 +1,8 @@
-## About the talk: Starting a new project with AngularJS
+## Starting a new project with AngularJS
 
 We’ve been using [AngularJS](https://angularjs.org/) in [SnapScan](http://www.snapscan.co.za/) since the start, and we’ve grown quite fond of it. I’ll be talking about why you should consider Angular for your next project, and what the pitfalls are you might encounter along the way.
 
-### About the speaker: Estiaan le Roux
+### Estiaan le Roux
 
 ![Estiaan le Roux](/assets/img/estiaan.jpg)
 
@@ -12,11 +12,11 @@ You can find him on Twitter as [@estiaan](https://twitter.com/@estiaan).
 
 ---
 
-## About the talk: Performa...nce
+## Performa...nce
 
 No one likes waiting for pages to load and slow websites are bad for business. I'll show you some of the research on how performance can impact a business's bottom line and hopefully convince you in the process. I'll teach you what you should know as a front-end developer to get your pages loading and rendering as quickly as possible and I'll briefly touch on some of the backend concepts that also come into play. I'll end after getting the page rendered that first time, so this won't touch on things like animation and scrolling performance.
 
-### About the speaker: Le Roux Bodenstein
+### Le Roux Bodenstein
 
 ![Le Roux Bodenstein](/assets/img/lrb.jpg)
 
