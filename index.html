@@ -3,11 +3,17 @@ layout: home
 title: CTFEDs - Cape Town front-end developers
 ---
 
-<article class="latest">
+  <article class="latest">
+    <h1 class="block-header">Making the web better, one site at a time.</h1>
+    <h2>Cape Town Front-end Developers (CTFEDs) is a free monthly meetup group that hosts talks on Front-end Developement and related topics.</h2>
+    <p>Hang around after the talk to chat with friends old and new.</p>
+    <p>Join us at <a href="http://www.meetup.com/ctfeds/">meetup.com/ctfeds</a> to be notified of our next event.</p>
+  </article>
+
+  <article class="latest">
     <h1 class="block-header latest-meetup">
         <span class="block-header-icon date-icon"></span>
         Next event
      </h1>
      {% capture event %}{% include event.md %}{% endcapture %}
         {{ event | markdownify }}
-</article>
