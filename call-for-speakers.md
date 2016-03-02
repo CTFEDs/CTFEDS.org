@@ -7,4 +7,4 @@ title: Call for speakers
 * We tend to do *talks*, but if you'd like to do a panel or workshop, let us know!
 * When we have one talk, it's about 40 minutes. We we have two talks, each one is about 20 minutes. Pick the length that you prefer.
 * The topic should be mostly about Front-end development, but can touch on related topics like process and workflow.
-* Read and follow our [code of conduct](/code-of-conduct.html).
+* Read and follow our [code of conduct](/code-of-conduct/).
