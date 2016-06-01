@@ -7,9 +7,9 @@ Intro blurb.
 
 ## Statistics
 
-* Google's PageSpeedInsight: scores
-* Webaim's WAVE: errors
-* WebPageTest on 3G: SpeedIndex
+* Google's PageSpeedInsight: [46 / 100 mobile, 54 / 100 desktop](https://developers.google.com/speed/pagespeed/insights/?url=http%3A%2F%2Fwww.dailymaverick.co.za%2F)
+* Webaim's WAVE: [7 errors / 627 alerts](http://wave.webaim.org/report#/thedailymaverick.co.za)
+* WebPageTest on 3G: [SpeedIndex of 12487](http://www.webpagetest.org/result/160601_AX_111H/)
 
 ## Review
 
