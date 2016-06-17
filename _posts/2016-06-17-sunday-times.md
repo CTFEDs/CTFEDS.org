@@ -7,7 +7,7 @@ The Sunday Times is South Africa's largest selling Sunday print newspaper and is
 
 ## Statistics
 
-* Google's PageSpeedInsight: [58 on mobile and, erm, 66 (!) on desktop](https://developers.google.com/speed/pagespeed/insights/?url=http%3A%2F%2Fwww.timeslive.co.za%2Fsundaytimes%2F&tab=mobile)
+* Google's PageSpeedInsight: [58 on mobile and 66 on desktop](https://developers.google.com/speed/pagespeed/insights/?url=http%3A%2F%2Fwww.timeslive.co.za%2Fsundaytimes%2F&tab=mobile)
 * Webaim's WAVE: [67 errors and 72 alerts](http://wave.webaim.org/report#/http%3A%2F%2Fwww.timeslive.co.za%2Fsundaytimes%2F)
 * WebPageTest on 3G, running Chrome: [SpeedIndex of 13625 on first view](http://www.webpagetest.org/result/160617_QG_HX5/)
 
