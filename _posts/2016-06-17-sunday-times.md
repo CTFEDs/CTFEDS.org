@@ -3,13 +3,13 @@ layout: page
 title: The Sunday Times
 ---
 
-The Sunday Times is South Africa's largest selling Sunday print newspaper and is part of the Tnes Media Group, one of the largest media houses in South Africa. The website for the Sunday Times sits apart from their flagship Times Live site in a subdirectory of the main url.
+The Sunday Times is South Africa's largest selling Sunday print newspaper and is part of the Times Media Group, one of the largest media houses in South Africa. The website for the Sunday Times sits apart from their flagship Times Live site in a subdirectory of the main url.
 
 ## Statistics
 
-* Google's PageSpeedInsight: [59 on mobile and, erm, 66 (!) on desktop](https://developers.google.com/speed/pagespeed/insights/?url=http%3A%2F%2Fwww.timeslive.co.za%2Fsundaytimes%2F&tab=mobile)
+* Google's PageSpeedInsight: [58 on mobile and, erm, 66 (!) on desktop](https://developers.google.com/speed/pagespeed/insights/?url=http%3A%2F%2Fwww.timeslive.co.za%2Fsundaytimes%2F&tab=mobile)
 * Webaim's WAVE: [67 errors and 72 alerts](http://wave.webaim.org/report#/http%3A%2F%2Fwww.timeslive.co.za%2Fsundaytimes%2F)
-* WebPageTest on 3G, running Motorola G, Chrome: [SpeedIndex of 13625 on first view](http://www.webpagetest.org/result/160617_QG_HX5/)
+* WebPageTest on 3G, running Chrome: [SpeedIndex of 13625 on first view](http://www.webpagetest.org/result/160617_QG_HX5/)
 
 ## Review
 
@@ -35,7 +35,7 @@ There are a number of inline script and CSS blocks that can be moved to **extern
 
 ---
 
-Published on Friday 10th June 2016.
+Published on Friday 17th June 2016.
 
 [Steve Barnett](https://naga.co.za/) ([@maxbarners](https://twitter.com/maxbarners)) and [Justin Slack](http://justinslack.com/) ([@justin_r_slack](https://twitter.com/justin_r_slack))
 
