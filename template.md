@@ -18,6 +18,8 @@ Summary
 - few
 - bullets
 - summary
+- How does it compare to the "average" in terms of number of resources, DOM ready time
+
 
 Changes for biggest effect.
 
