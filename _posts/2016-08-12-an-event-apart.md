@@ -15,15 +15,15 @@ title: An Event Apart
 
 Given the premise of the event one would assume that the website would follow best practice and be highly performant. This is largely the case. When it comes to best practice in performance [An Event Apart](http://aneventapart.com/) ticks most of the boxes.
 
-- standard performance techniques like enabling keep-alive, compressing transfer and images, caching static content and using a cdn are all enabled
-- in addition the server is optimised for fast delivery and the HTML is minified reducing its size significantly
-- this means that the site loads relatively quickly, even on a 3G connection
+- Standard performance techniques like enabling keep-alive, compressing transfer and images, caching static content and using a CDN are all enabled.
+- The server is optimised for fast delivery and the HTML is minified reducing its size significantly.
+- The site loads relatively quickly, even on a 3G connection.
 
-There are however a few areas where performance can be improved.
+There are a few areas where performance can be improved.
 
-- Total page size is 1.3mb, over 800kb of which is images. While images are optimised some of them are still between 150 and 200kb.
-- There are 54 requests a little over a reasonable number, but these could be reduced by combining js files where possible. 27 of these are also for images.
-- CSS and js files are not minified. Minifying these will speed up download, parsing and execution time.
+- **Total page size is 1.3mb**, over 800kb of which is images. While images are optimised some of them are still between 150 and 200kb.
+- There are **54 requests**: a little over a reasonable number. These could be reduced by combining JS files where possible. 27 of these are also for images.
+- **CSS and JS files are not minified**. Minifying these will speed up download, parsing and execution time.
 
 While [An Event Apart](http://aneventapart.com/) performs well and follows a number of best practices and bit of additional tweaking could make it even better.
 
