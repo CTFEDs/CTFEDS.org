@@ -11,6 +11,8 @@ permalink: :title/
 navigation:
  - title: Home
    url: /index.html
+ - title: Workshops
+   url: /workshops/index.html
 
 exclude: [
     'node_modules',
