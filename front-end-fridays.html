@@ -1,0 +1,14 @@
+---
+layout: default
+title: Front-end Fridays
+---
+
+<article id="front-end-fridays">
+  <h1>Front-end Fridays</h1>
+  <p>Every Friday (ish) we look at a popular web site and review it's Front-end Performance. Here are some past episodes:</p>
+  <ul>
+    {% for post in site.posts %}
+      <li><a href="{{ post.url }}">{{ post.title }}</a> on {{ post.date | date: "%A %B %-d %Y" }}.</li>
+    {% endfor %}
+  </ul>
+</article>

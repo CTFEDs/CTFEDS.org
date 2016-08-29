@@ -11,8 +11,10 @@ permalink: :title/
 navigation:
  - title: Home
    url: /index.html
- - title: About
-   url: /about/index.html
+ - title: Front-end Fridays
+   url: /front-end-fridays/index.html
+ - title: Workshops
+   url: /workshops/index.html
 
 exclude: [
     'node_modules',
