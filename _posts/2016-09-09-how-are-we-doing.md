@@ -3,7 +3,7 @@ layout: page
 title: How are we doing?
 ---
 
-Popular site noupe.com released a post [10 Hand-Picked WordPress Themes of August 2016](http://www.noupe.com/wordpress/hand-picked-wordpress-themes-august-2016-98679.html) a few weeks ago, and we decided to have a look at the performance of those Themes. Check the pulse, have a look at the station of nation, see how we (as people who make websites) are doing. Unfortunately, it's more of a case of "Nope" than "Noupe" (sorry).
+Popular site noupe.com released a post [10 Hand-Picked WordPress Themes of August 2016](http://www.noupe.com/wordpress/hand-picked-wordpress-themes-august-2016-98679.html) a few weeks ago, and we decided to have a look at the performance of those Themes. Check the pulse, have a look at the state of nation, see how we (as people who make websites) are doing. Unfortunately, it's more of a case of "Nope" than "Noupe" (sorry).
 
 ## Statistics
 
