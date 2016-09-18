@@ -224,16 +224,16 @@ hr {
 
 /* Home page stuff*/
 
-.latest {
+.latest, .article {
   background-color: white;
   border-bottom: 0.625em solid #e66c57;
   padding: 1.875em;
   margin-bottom:  2em;
 }
 
-.latest h1,
-.latest h2,
-.latest h3 {
+.latest h1, .article h1,
+.latest h2, .article h2,
+.latest h3, .article h3 {
   text-align: center;
   line-height: 1.25;
 }
@@ -244,7 +244,8 @@ hr {
   margin-right: auto;
 }
 
-.latest p, .latest ul {
+.latest p, .article p,
+.latest ul, .article ul {
   max-width: 45em;
   margin-left: auto;
   margin-right: auto;
@@ -302,6 +303,16 @@ hr {
   background-color: white;
   padding: 0.313em 30px 30px;
   border-bottom: 0.625em solid #e66c57;
+}
+
+.call-for-speakers img {
+  width: 50%;
+}
+
+@media (min-width: 30em) {
+  .call-for-speakers img {
+    width: 25%;
+  }
 }
 
 /*---Footer--*/
