@@ -1,0 +1,15 @@
+---
+layout: home
+title: Call for speakers | CTFEDs
+---
+
+  <article class="article">
+    <h1 class="block-header">Call for speakers</h1>
+     {% capture call-for-speakers-intro %}{% include call-for-speakers-intro.md %}{% endcapture %}
+        {{ call-for-speakers-intro | markdownify }}
+  </article>
+
+  <article class="article call-for-speakers">
+     {% capture call-for-speakers %}{% include call-for-speakers.md %}{% endcapture %}
+        {{ call-for-speakers | markdownify }}
+  </article>
