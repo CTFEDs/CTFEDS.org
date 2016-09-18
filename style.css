@@ -123,6 +123,13 @@ body {
   padding: 0 1.25em;
 }
 
+@media (min-width: 60em) {
+  .header-container header {
+    display: flex;
+    justify-content: space-between;
+  }
+}
+
 header {
 	max-width: 60em;
 	margin: 0 auto;
@@ -148,12 +155,6 @@ h1 {
   text-transform: uppercase;
 }
 
-@media only screen and (min-width: 34.375em) {
-  .logo-header {
-    float: left;
-  }
-}
-
 .logo-link {
 	text-decoration: none;
 }
@@ -176,27 +177,14 @@ a:hover {
  color: #3ba57a;
 }
 
-@media only screen and (min-width: 34.375em) {
-  .main-nav {
-    float: left;
-    margin-left: 3.125em;
-  }
-}
-
 .menu {
 	margin: 1.25em 0 0;
-}
-
-@media only screen and (min-width: 34.375em) {
-  .menu {
-    padding-left: 3.125em;
-    border-left: 1px solid #61ba96;
-  }
+  padding: 0;
 }
 
 .menu li {
   display: inline-block;
-  margin-right: 2.5em;
+  margin: 0 1.25em 1em 1.25em;
 }
 
 .menu a {
