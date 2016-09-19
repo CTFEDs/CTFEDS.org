@@ -43,7 +43,7 @@ If you’re new to front-end, we want to hear from you! You can help show other 
 We want to hear about all things front-end and related, and are happy to chat through ideas with you. Here are some topics that we’re looking for speakers on.
 
 * Images, the `picture` element, `srcset`.
-* schema.org and metdata.
+* schema.org and metadata.
 * Lightning talks on CSS things you’ve learned and things you’ve used.
 * Responsive workflow.
 * Front-end performance.
