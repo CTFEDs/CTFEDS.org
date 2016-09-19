@@ -123,6 +123,13 @@ body {
   padding: 0 1.25em;
 }
 
+@media (min-width: 60em) {
+  .header-container header {
+    display: flex;
+    justify-content: space-between;
+  }
+}
+
 header {
 	max-width: 60em;
 	margin: 0 auto;
@@ -148,12 +155,6 @@ h1 {
   text-transform: uppercase;
 }
 
-@media only screen and (min-width: 34.375em) {
-  .logo-header {
-    float: left;
-  }
-}
-
 .logo-link {
 	text-decoration: none;
 }
@@ -176,27 +177,14 @@ a:hover {
  color: #3ba57a;
 }
 
-@media only screen and (min-width: 34.375em) {
-  .main-nav {
-    float: left;
-    margin-left: 3.125em;
-  }
-}
-
 .menu {
 	margin: 1.25em 0 0;
-}
-
-@media only screen and (min-width: 34.375em) {
-  .menu {
-    padding-left: 3.125em;
-    border-left: 1px solid #61ba96;
-  }
+  padding: 0;
 }
 
 .menu li {
   display: inline-block;
-  margin-right: 2.5em;
+  margin: 0 1.25em 1em 1.25em;
 }
 
 .menu a {
@@ -224,16 +212,16 @@ hr {
 
 /* Home page stuff*/
 
-.latest {
+.latest, .article {
   background-color: white;
   border-bottom: 0.625em solid #e66c57;
   padding: 1.875em;
   margin-bottom:  2em;
 }
 
-.latest h1,
-.latest h2,
-.latest h3 {
+.latest h1, .article h1,
+.latest h2, .article h2,
+.latest h3, .article h3 {
   text-align: center;
   line-height: 1.25;
 }
@@ -244,7 +232,8 @@ hr {
   margin-right: auto;
 }
 
-.latest p, .latest ul {
+.latest p, .article p,
+.latest ul, .article ul {
   max-width: 45em;
   margin-left: auto;
   margin-right: auto;
@@ -260,11 +249,18 @@ hr {
   vertical-align: middle;
   border-radius: 100%;
   background-color: #e66c57;
-  width: 2em;
-  height: 2em;
+  width: 1em;
+  height: 1em;
   background-size: 50%;
   background-repeat: no-repeat;
   background-position: center center;
+}
+
+@media (min-width: 40em) {
+  .block-header-icon {
+    width: 2em;
+    height: 2em;
+  }
 }
 
 .date-icon {
@@ -302,6 +298,16 @@ hr {
   background-color: white;
   padding: 0.313em 30px 30px;
   border-bottom: 0.625em solid #e66c57;
+}
+
+.call-for-speakers img {
+  width: 50%;
+}
+
+@media (min-width: 30em) {
+  .call-for-speakers img {
+    width: 25%;
+  }
 }
 
 /*---Footer--*/

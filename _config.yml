@@ -11,6 +11,8 @@ permalink: :title/
 navigation:
  - title: Home
    url: /index.html
+ - title: Call for speakers
+   url: /call-for-speakers/
  - title: Front-end Fridays
    url: /front-end-fridays/index.html
  - title: Workshops
