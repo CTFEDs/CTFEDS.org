@@ -322,7 +322,7 @@ footer {
 /*--Tables---*/
 
 table {
-  margin: 0 auto;
+  margin: 20px auto 40px;
   table-layout: fixed;
 }
 
