@@ -318,3 +318,23 @@ footer {
   max-width: 960px;
   margin: 0 auto 30px;
 }
+
+/*--Tables---*/
+
+table {
+  margin: 20px auto 40px;
+  table-layout: fixed;
+}
+
+td, th {
+  border-bottom:  1px solid #c1c1c1;
+  padding:  5px 20px;
+}
+
+td, th {
+  text-align: right;
+}
+
+th:first-of-type, td:first-of-type {
+  text-align:  left;
+}
