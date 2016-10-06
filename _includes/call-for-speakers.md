@@ -24,7 +24,7 @@ The [CTFEDs organising team](http://www.meetup.com/ctfeds/members/?op=leaders) a
 * **Making slides.** Making your own, or [using a template](http://alicebartlett.co.uk/blog/how-to-do-ok-at-slides).
 * **Practising the talk or discussing the workshop content** We’ll be an appreciative and supportive audience that will provide constructive feedback.
 
-If you’d like to read a bunch of stuff, here are [30 links about preparing for and making a talk](https://pinboard.in/u:maxbarners/t:ctfeds/t:speaking/t:advice/). Here are three picks: a small, a medium, and a large size.
+If you’d like to read a bunch of stuff, here are [about 30 links about preparing for and making a talk](https://pinboard.in/u:maxbarners/t:ctfeds/t:speaking/t:advice/). Here are three picks: a small, a medium, and a large size.
 
 * [6 Tips for Speaking In Public](http://neil-gaiman.tumblr.com/post/41653204206/6-tips-for-speaking-in-public) by author Neil Gaiman.
 * [How to write a talk](https://soledadpenades.com/2016/08/17/how-to-write-a-talk/) by Soledad Penadés. With a handy flow chart of the process.
@@ -38,7 +38,7 @@ If you’re new to speaking, we are [happy to help](#help). If you already know 
 
 If you’re new to front-end, we want to hear from you! You can help show other people like you that it’s not as scary and confusing as it looks: everyone has to start somewhere. If you’ve just learned something you are the best person to tell others about it: you know the things to look out for, and what’s unexpected. Giving a talk about a topic is a great excuse to dig into learning about it.
 
-## Topics
+## Topics and timing
 
 We want to hear about all things front-end and related, and are happy to chat through ideas with you. Here are some topics that we’re looking for speakers on.
 
@@ -49,5 +49,7 @@ We want to hear about all things front-end and related, and are happy to chat th
 * Front-end performance.
 * Progressive Enhancement.
 * Atomic design.
+
+Talks are usually about 30 minutes with some time for questions at the end. If you'd like to do something a bit shorter or a bit longer, let us know.
 
 [Get in touch](http://www.meetup.com/ctfeds/members/?op=leaders) and tell us about the story you'd like to share.
