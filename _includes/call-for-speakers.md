@@ -38,7 +38,7 @@ If you’re new to speaking, we are [happy to help](#help). If you already know 
 
 If you’re new to front-end, we want to hear from you! You can help show other people like you that it’s not as scary and confusing as it looks: everyone has to start somewhere. If you’ve just learned something you are the best person to tell others about it: you know the things to look out for, and what’s unexpected. Giving a talk about a topic is a great excuse to dig into learning about it.
 
-## Topics
+## Topics and timing
 
 We want to hear about all things front-end and related, and are happy to chat through ideas with you. Here are some topics that we’re looking for speakers on.
 
@@ -49,5 +49,7 @@ We want to hear about all things front-end and related, and are happy to chat th
 * Front-end performance.
 * Progressive Enhancement.
 * Atomic design.
+
+Talks are usually about 30 minutes with some time for questions at the end. If you'd like to do something a bit shorter or a bit longer, let us know.
 
 [Get in touch](http://www.meetup.com/ctfeds/members/?op=leaders) and tell us about the story you'd like to share.
