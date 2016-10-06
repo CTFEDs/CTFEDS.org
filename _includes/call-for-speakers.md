@@ -24,7 +24,7 @@ The [CTFEDs organising team](http://www.meetup.com/ctfeds/members/?op=leaders) a
 * **Making slides.** Making your own, or [using a template](http://alicebartlett.co.uk/blog/how-to-do-ok-at-slides).
 * **Practising the talk or discussing the workshop content** We’ll be an appreciative and supportive audience that will provide constructive feedback.
 
-If you’d like to read a bunch of stuff, here are [30 links about preparing for and making a talk](https://pinboard.in/u:maxbarners/t:ctfeds/t:speaking/t:advice/). Here are three picks: a small, a medium, and a large size.
+If you’d like to read a bunch of stuff, here are [about 30 links about preparing for and making a talk](https://pinboard.in/u:maxbarners/t:ctfeds/t:speaking/t:advice/). Here are three picks: a small, a medium, and a large size.
 
 * [6 Tips for Speaking In Public](http://neil-gaiman.tumblr.com/post/41653204206/6-tips-for-speaking-in-public) by author Neil Gaiman.
 * [How to write a talk](https://soledadpenades.com/2016/08/17/how-to-write-a-talk/) by Soledad Penadés. With a handy flow chart of the process.
