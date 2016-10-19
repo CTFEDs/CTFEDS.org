@@ -359,6 +359,10 @@ th:first-of-type, td:first-of-type {
   flex: 0 0 100%;
 }
 
+.list-item img {
+  margin:  0 0 2em;
+}
+
 @media all and (min-width: 40em) and (max-width: 60em) {
   .list-item {
     flex: 0 0 48%;
