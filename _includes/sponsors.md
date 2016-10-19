@@ -1,3 +1,5 @@
+Thank you to our sponsors for providing venues for our meetups and workshops and for providing drinks.
+
 <ul class="list">
   <li class="list-item">
     <a href="http://newmedialabs.co.za"><img src="/assets/img/sponsors/nml.jpeg" alt=""></a>
