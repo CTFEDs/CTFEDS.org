@@ -17,6 +17,8 @@ navigation:
    url: /front-end-fridays/index.html
  - title: Workshops
    url: /workshops/index.html
+ - title: Sponsors
+   url: /sponsors/index.html
 
 exclude: [
     'node_modules',
