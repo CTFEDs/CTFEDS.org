@@ -1,6 +1,6 @@
 ## Diversity
 
-The CTFEDs organising team wants people of any gender, ethnicity, orientation, ability, experience, financial status to feel welcome, safe, and confident to attend our events. We want our community to be more diverse, inclusive, and representative because we believe that a diverse and inclusive community benefits everyone. We want our community members to approach each other with empathy, understanding, mutual respect, tolerance.
+The CTFEDs organising team wants people of any gender, ethnicity, orientation, ability, experience, or financial status to feel welcome, safe, and confident to attend our events. We want our community to be more diverse, inclusive, and representative because we believe that a diverse and inclusive community benefits everyone. We want our community members to approach each other with empathy, understanding, mutual respect, tolerance.
 
 We’re working to get better: we know that we’re at the start of journey and that we’ll fail a lot of times. We hope that you will help us on journey, [tell us when we misstep](http://www.meetup.com/ctfeds/members/?op=leaders), and help us get back on the right path.
 
