@@ -381,3 +381,7 @@ th:first-of-type, td:first-of-type {
   margin:  0 auto;
   max-width:  600px;
 }
+
+.mailing-list input {
+  font-size: 1em;
+}
