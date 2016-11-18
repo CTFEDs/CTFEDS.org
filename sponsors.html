@@ -1,0 +1,10 @@
+---
+layout: home
+title: Our sponsors
+---
+
+  <article class="article">
+    <h1 class="block-header">Our sponsors</h1>
+     {% capture sponsors %}{% include sponsors.md %}{% endcapture %}
+        {{ sponsors | markdownify }}
+  </article>
