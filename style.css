@@ -104,22 +104,22 @@ table {
 }
 
 * {
-	-moz-box-sizing: border-box;
-	box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
 }
 
 body {
-	background-color: #61ba96;
-	font-family: 'Source Sans Pro', sans-serif;
-	color: #727272;
-	font-size: 100%;
-	line-height: 1.8;
+  background-color: #61ba96;
+  font-family: 'Source Sans Pro', sans-serif;
+  color: #727272;
+  font-size: 100%;
+  line-height: 1.8;
 }
 
 .header-container {
-	background-color: white;
-	overflow: hidden;
-	box-shadow: 0 0 .8em 0 rgba(0,0,0,.2);
+  background-color: white;
+  overflow: hidden;
+  box-shadow: 0 0 .8em 0 rgba(0,0,0,.2);
   padding: 0 1.25em;
 }
 
@@ -131,47 +131,47 @@ body {
 }
 
 header {
-	max-width: 60em;
-	margin: 0 auto;
-	padding: 1.25em 0;
-	overflow: hidden;
+  max-width: 60em;
+  margin: 0 auto;
+  padding: 1.25em 0;
+  overflow: hidden;
   text-align: center;
 }
 
 .wrap {
-	max-width: 60em;
-	margin: 5em auto;
+  max-width: 60em;
+  margin: 5em auto;
 }
 
 h1 {
-	font-weight: 400;
-	font-size: 2.5em;
-	letter-spacing: 0.03em;
+  font-weight: 400;
+  font-size: 2.5em;
+  letter-spacing: 0.03em;
 }
 
 .logo-header {
   font-size: 2em;
-	margin: 0;
+  margin: 0;
   line-height: 1.3;
   text-transform: uppercase;
 }
 
 .logo-link {
-	text-decoration: none;
+  text-decoration: none;
 }
 
 .logo-link::before {
-	content:'\007B';
-	font-size:1.4em;
+  content:'\007B';
+  font-size:1.4em;
 }
 
 .logo-link::after {
-	content:'\007D';
-	font-size:1.4em;
+  content:'\007D';
+  font-size:1.4em;
 }
 
 a {
-	color: #23825c;
+  color: #23825c;
 }
 
 a:hover {
@@ -179,7 +179,7 @@ a:hover {
 }
 
 .menu {
-	margin: 1.25em 0 0;
+  margin: 1.25em 0 0;
   padding: 0;
 }
 
@@ -193,15 +193,15 @@ a:hover {
 }
 
 .menu a {
-	font-size: 1.125em;
-	text-decoration: none;
-	text-transform: uppercase;
-	color: #4c4c4c;
+  font-size: 1.125em;
+  text-decoration: none;
+  text-transform: uppercase;
+  color: #4c4c4c;
   line-height: 1;
 }
 
 .menu a:hover {
-	color: #61ba96;
+  color: #61ba96;
 }
 
 .current a {
@@ -373,4 +373,15 @@ th:first-of-type, td:first-of-type {
   .list-item {
     flex: 0 0 23%;
   }
+}
+
+/*---Forms---*/
+
+.mailing-list {
+  margin:  0 auto;
+  max-width:  600px;
+}
+
+.mailing-list input {
+  font-size: 1em;
 }
