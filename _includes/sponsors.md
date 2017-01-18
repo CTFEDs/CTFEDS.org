@@ -1,4 +1,4 @@
-Thank you to our sponsors for providing venues for our meetups and workshops and for providing drinks.
+Thank you to our sponsors for providing venues for our meetups and workshops and for providing drinks. You are awesome!
 
 <ul class="list">
   <li class="list-item">
