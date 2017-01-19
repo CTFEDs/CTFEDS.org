@@ -9,6 +9,5 @@ title: Our sponsors
     <p>Our first meetup was in October 2012, and since then we've had {{ site.data.stats.events }} meetups and workshops with over {{ site.data.stats.attendeesish }} atteendes. Our meetup group has about {{ site.data.stats.meetupmembersish }} members, including Front-end Developers, Back-end Developers, Full stack Developers, UX Designers, and more.</p>
     <p>We're always looking for <strong>venues to hold our meetups</strong>  and for <strong>drinks for our attendees</strong>. (The venue needs a projector and to have room for about 30 people. We're usually somewhere in the CBD to avoid the post-work-leaving-town traffic. For drinks we usually supply some beers and ciders and a selection of soft drinks.) Can you help? <a href="http://www.meetup.com/ctfeds/members/?op=leaders">Let us know!</a> :)</p>
     <h1 class="block-header" id="our-sponsors">Our sponsors</h1>
-     {% capture sponsors %}{% include sponsors.md %}{% endcapture %}
-        {{ sponsors | markdownify }}
+     {% include sponsors.html %}
   </article>
