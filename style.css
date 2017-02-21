@@ -385,3 +385,11 @@ th:first-of-type, td:first-of-type {
 .mailing-list input {
   font-size: 1em;
 }
+
+/*--Organisers--*/
+
+.organisers img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}

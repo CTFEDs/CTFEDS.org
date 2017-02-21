@@ -13,10 +13,10 @@ navigation:
    url: /index.html
  - title: Call for speakers
    url: /call-for-speakers/
- - title: Front-end Fridays
-   url: /front-end-fridays/index.html
  - title: Workshops
    url: /workshops/index.html
+ - title: Organisers
+   url: /organisers/
  - title: Sponsors
    url: /sponsors/index.html
 
