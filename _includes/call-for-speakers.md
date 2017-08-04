@@ -49,7 +49,8 @@ We want to hear about all things front-end and related, and are happy to chat th
 * Front-end performance.
 * Progressive Enhancement.
 * Atomic design.
-* CSS Grid
+* CSS Flexbox, CSS Grid, and the combination of the two.
+* Accessibility.
 
 Talks are usually about 30 minutes with some time for questions at the end. If you'd like to do something a bit shorter or a bit longer, let us know.
 
