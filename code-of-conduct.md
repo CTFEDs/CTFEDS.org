@@ -11,7 +11,7 @@ We are dedicated to providing a harassment-free experience for everyone, regardl
 
 Harassment includes sexual images in public spaces, deliberate intimidation, stalking, following, harassing photography or recording, sustained disruption of talks or other events, inappropriate physical contact, sexist and racist language and unwelcome sexual attention.
 
-If an attendee engages in harassing behavior, we may take any action we deem appropriate, including expulsion from the event. If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact [an organiser](http://www.meetup.com/ctfeds/members/?op=leaders) immediately. Justin Slack or Steve Barnett are the current organisers. 
+If an attendee engages in harassing behavior, we may take any action we deem appropriate, including expulsion from the event. If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact [an organiser](http://www.meetup.com/ctfeds/members/?op=leaders) immediately. Justin Slack, Steve Barnett, and Danielle Eriksen are the current organisers. 
 
 Sponsors are also subject to the anti-harassment policy. In particular, sponsors should not use sexualised images or activities in their advertising or branding material.
 
