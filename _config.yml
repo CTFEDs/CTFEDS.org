@@ -6,7 +6,7 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://ctfeds.org" # the base hostname & protocol for your site
 # Build settings
 markdown: kramdown
-permalink: :title/
+permalink: pretty
 
 sass:
   sass_dir: _sass
