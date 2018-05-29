@@ -256,20 +256,17 @@ hr {
   background-color: #e66c57;
   width: 1em;
   height: 1em;
-  background-size: 50%;
-  background-repeat: no-repeat;
-  background-position: center center;
 }
 
 @media (min-width: 40em) {
   .block-header-icon {
-    width: 2em;
-    height: 2em;
+    width: 1.5em;
+    height: 1.5em;
   }
 }
 
 .date-icon {
-  background-image: url(../assets/img/calendar.svg);
+  transform: translateY(0.2em);
 }
 
 .meetup-latest {
