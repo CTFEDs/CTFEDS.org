@@ -20,6 +20,9 @@
     font-display: swap;
 }
 
+$ctfeds-green: #61ba96;
+$ctfeds-green-text: #275;
+
 article,
 aside,
 details,
@@ -131,7 +134,7 @@ table {
 }
 
 body {
-  background-color: #61ba96;
+  background-color: $ctfeds-green;
   font-family: 'Source Sans Pro', sans-serif;
   color: #727272;
   font-size: 100%;
@@ -223,15 +226,15 @@ a:hover {
 }
 
 .menu a:hover {
-  color: #61ba96;
+  color: $ctfeds-green-text;
 }
 
 .current a {
-    color: #61ba96;
+    color: $ctfeds-green-text;
 }
 
 hr {
-  border-top: solid 1px #61ba96;
+  border-top: solid 1px $ctfeds-green-text;
   border-right: none;
   border-bottom: none;
   border-left: none;
@@ -267,7 +270,7 @@ hr {
 }
 
 .block-header {
-  color: #61ba96;
+  color: $ctfeds-green-text;
   margin: 0;
 }
 
@@ -411,4 +414,16 @@ th:first-of-type, td:first-of-type {
   display: block;
   margin-left: auto;
   margin-right: auto;
+}
+
+.visuallyhidden {
+    border: 0;
+    clip: rect(0 0 0 0);
+    height: 1px;
+    margin: -1px;
+    overflow: hidden;
+    padding: 0;
+    position: absolute;
+    width: 1px;
+    white-space: nowrap; /* 1 */
 }
