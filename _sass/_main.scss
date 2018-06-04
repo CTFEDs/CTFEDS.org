@@ -21,6 +21,7 @@
 }
 
 $ctfeds-green: #61ba96;
+$ctfeds-green-text: #275;
 
 article,
 aside,
@@ -225,15 +226,15 @@ a:hover {
 }
 
 .menu a:hover {
-  color: $ctfeds-green;
+  color: $ctfeds-green-text;
 }
 
 .current a {
-    color: $ctfeds-green;
+    color: $ctfeds-green-text;
 }
 
 hr {
-  border-top: solid 1px $ctfeds-green;
+  border-top: solid 1px $ctfeds-green-text;
   border-right: none;
   border-bottom: none;
   border-left: none;
@@ -269,7 +270,7 @@ hr {
 }
 
 .block-header {
-  color: $ctfeds-green;
+  color: $ctfeds-green-text;
   margin: 0;
 }
 
