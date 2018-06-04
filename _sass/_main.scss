@@ -20,6 +20,8 @@
     font-display: swap;
 }
 
+$ctfeds-green: #61ba96;
+
 article,
 aside,
 details,
@@ -131,7 +133,7 @@ table {
 }
 
 body {
-  background-color: #61ba96;
+  background-color: $ctfeds-green;
   font-family: 'Source Sans Pro', sans-serif;
   color: #727272;
   font-size: 100%;
@@ -223,15 +225,15 @@ a:hover {
 }
 
 .menu a:hover {
-  color: #61ba96;
+  color: $ctfeds-green;
 }
 
 .current a {
-    color: #61ba96;
+    color: $ctfeds-green;
 }
 
 hr {
-  border-top: solid 1px #61ba96;
+  border-top: solid 1px $ctfeds-green;
   border-right: none;
   border-bottom: none;
   border-left: none;
@@ -267,7 +269,7 @@ hr {
 }
 
 .block-header {
-  color: #61ba96;
+  color: $ctfeds-green;
   margin: 0;
 }
 
