@@ -24,15 +24,15 @@ function updateStaticCache() {
   return caches.open(staticCacheName)
   .then( cache => {
     cache.addAll([
-      'fonts/source-sans-pro-v11-latin-regular.woff2',
-      'fonts/source-sans-pro-v11-latin-600.woff2'
+      'fonts/roboto-regular.woff2',
+      'fonts/roboto-bold.woff2'
       ].concat(offlinePages));
       return cache.addAll([
         '/',
-        '/call-for-speakers/',
-        '/workshops/',
-        '/organisers/',
-        '/sponsors/'
+        // '/call-for-speakers/',
+        // '/workshops/',
+        // '/organisers/',
+        // '/sponsors/'
       ]);
   });
 }
