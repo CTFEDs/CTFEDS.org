@@ -27,7 +27,6 @@ The [CTFEDs organising team](http://www.meetup.com/ctfeds/members/?op=leaders) a
 
 If you’d like to read a bunch of stuff, here are [about 30 links about preparing for and making a talk](https://pinboard.in/u:maxbarners/t:ctfeds/t:speaking/t:advice/). Here are three picks: a small, a medium, and a large size.
 
-* [6 Tips for Speaking In Public](http://neil-gaiman.tumblr.com/post/41653204206/6-tips-for-speaking-in-public) by author Neil Gaiman.
 * [How to write a talk](https://soledadpenades.com/2016/08/17/how-to-write-a-talk/) by Soledad Penadés. With a handy flow chart of the process.
 * [How to prepare and write a tech conference talk](http://wunder.schoenaberselten.com/2016/02/16/how-to-prepare-and-write-a-tech-conference-talk/) a long, detailed, post from Lena Reinhard on her process of preparing for a talk.
 
@@ -51,7 +50,11 @@ We want to hear about all things front-end and related, and are happy to chat th
 * Progressive Enhancement.
 * Atomic design.
 * CSS Flexbox, CSS Grid, and the combination of the two.
+* Css layout techniques
 * Accessibility.
+* JavaScript
+* ES6
+* React, Vue, Angular etc
 
 Talks are usually about 30 minutes with some time for questions at the end. If you'd like to do something a bit shorter or a bit longer, let us know.
 
