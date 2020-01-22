@@ -8,7 +8,8 @@ You can find our Code of Conduct at [ctfeds.org/code-of-conduct](http://ctfeds.o
 
 ### Past speakers and workshop facilitators
 
-[![](/assets/img/speakers/dani.jpg)](http://www.meetup.com/ctfeds/events/232323205/)[![](/assets/img/speakers/steve.jpg)](http://www.meetup.com/ctfeds/events/230409560/)[![](/assets/img/speakers/justin.jpg)](http://www.meetup.com/ctfeds/events/230409560/)[![](/assets/img/speakers/deb.jpg)](http://www.meetup.com/ctfeds/events/230740644/)[![](/assets/img/speakers/micheal.jpg)](http://www.meetup.com/ctfeds/events/229381599/)[![](/assets/img/speakers/jen.jpg)](http://www.meetup.com/ctfeds/events/228803699/)[![](/assets/img/speakers/taariq.jpg)](http://www.meetup.com/ctfeds/events/229042425/)[![](/assets/img/speakers/johann.jpg)](http://www.meetup.com/ctfeds/events/225531712/)[![](/assets/img/speakers/hiren.jpg)](http://www.meetup.com/ctfeds/events/225531712/)[![](/assets/img/speakers/thomas.jpg)](http://www.meetup.com/ctfeds/events/234471249/)[![](/assets/img/speakers/kurt.jpg)](http://www.meetup.com/ctfeds/events/235014410/)[![](/assets/img/speakers/schalk.jpg)](https://www.meetup.com/ctfeds/events/236894086/)[![](/assets/img/speakers/roxy.jpg)](https://www.meetup.com/ctfeds/events/243604333/)[![](/assets/img/speakers/caitlyn.jpg)](https://www.meetup.com/ctfeds/events/244871099/)
+<a href="http://www.meetup.com/ctfeds/events/232323205/"><img src="/assets/img/speakers/dani.jpg" alt=""><span class="visuallyhidden">The event that Dani spoke at</span></a><a href="http://www.meetup.com/ctfeds/events/230409560/"><img src="/assets/img/speakers/steve.jpg" alt=""><span class="visuallyhidden">The event that Steve spoke at</span></a><a href="http://www.meetup.com/ctfeds/events/230409560/"><img src="/assets/img/speakers/justin.jpg" alt=""><span class="visuallyhidden">The event that Justin spoke at</span></a><a href="http://www.meetup.com/ctfeds/events/230740644/"><img src="/assets/img/speakers/deb.jpg" alt=""><span class="visuallyhidden">The event that Deb spoke at</span></a><a href="http://www.meetup.com/ctfeds/events/229381599/"><img src="/assets/img/speakers/micheal.jpg" alt=""><span class="visuallyhidden">The event that Micheal spoke at</span></a><a href="http://www.meetup.com/ctfeds/events/228803699/"><img src="/assets/img/speakers/jen.jpg" alt=""><span class="visuallyhidden">The event that Jen spoke at</span></a><a href="http://www.meetup.com/ctfeds/events/229042425/"><img src="/assets/img/speakers/taariq.jpg" alt=""><span class="visuallyhidden">The event that Taariq spoke at</span></a><a href="http://www.meetup.com/ctfeds/events/225531712/"><img src="/assets/img/speakers/johann.jpg" alt=""><span class="visuallyhidden">The event that Johann spoke at</span></a><a href="http://www.meetup.com/ctfeds/events/225531712/"><img src="/assets/img/speakers/hiren.jpg" alt=""><span class="visuallyhidden">The event that Hiren spoke at</span></a><a href="http://www.meetup.com/ctfeds/events/234471249/"><img src="/assets/img/speakers/thomas.jpg" alt=""><span class="visuallyhidden">The event that Thomas spoke at</span></a><a href="http://www.meetup.com/ctfeds/events/235014410/"><img src="/assets/img/speakers/kurt.jpg" alt=""><span class="visuallyhidden">The event that Kurt spoke at</span></a><a href="https://www.meetup.com/ctfeds/events/236894086/"><img src="/assets/img/speakers/schalk.jpg" alt=""><span class="visuallyhidden">The event that Schalk spoke at</span></a><a href="https://www.meetup.com/ctfeds/events/243604333/"><img src="/assets/img/speakers/roxy.jpg" alt=""><span class="visuallyhidden">The event that Roxy spoke at</span></a><a href="https://www.meetup.com/ctfeds/events/248093186/"><img src="/assets/img/speakers/ben.jpg" alt=""><span class="visuallyhidden">The event that Ben spoke at</span></a><a href="https://www.meetup.com/ctfeds/events/245727127/"><img src="/assets/img/speakers/pi.jpg" alt=""><span class="visuallyhidden">The event that Pi spoke at</span><a href="https://www.meetup.com/ctfeds/events/245850094/"><img src="/assets/img/speakers/moose.jpg" alt=""><span class="visuallyhidden">The event that Moose spoke at</span>
+{:.past-speakers}
 
 ## Help!
 
@@ -26,7 +27,6 @@ The [CTFEDs organising team](http://www.meetup.com/ctfeds/members/?op=leaders) a
 
 If you’d like to read a bunch of stuff, here are [about 30 links about preparing for and making a talk](https://pinboard.in/u:maxbarners/t:ctfeds/t:speaking/t:advice/). Here are three picks: a small, a medium, and a large size.
 
-* [6 Tips for Speaking In Public](http://neil-gaiman.tumblr.com/post/41653204206/6-tips-for-speaking-in-public) by author Neil Gaiman.
 * [How to write a talk](https://soledadpenades.com/2016/08/17/how-to-write-a-talk/) by Soledad Penadés. With a handy flow chart of the process.
 * [How to prepare and write a tech conference talk](http://wunder.schoenaberselten.com/2016/02/16/how-to-prepare-and-write-a-tech-conference-talk/) a long, detailed, post from Lena Reinhard on her process of preparing for a talk.
 
@@ -50,7 +50,11 @@ We want to hear about all things front-end and related, and are happy to chat th
 * Progressive Enhancement.
 * Atomic design.
 * CSS Flexbox, CSS Grid, and the combination of the two.
+* Css layout techniques
 * Accessibility.
+* JavaScript
+* ES6
+* React, Vue, Angular etc
 
 Talks are usually about 30 minutes with some time for questions at the end. If you'd like to do something a bit shorter or a bit longer, let us know.
 
